@@ -1,5 +1,7 @@
 ### Hi there 👋
 http://www.pratikdevdas.com
+
+[![wakatime](https://wakatime.com/badge/user/52d1c647-d52a-4125-88c1-403caaa2c2e8.svg)](https://wakatime.com/@52d1c647-d52a-4125-88c1-403caaa2c2e8)
 <!--
 **pratikdevdas/pratikdevdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

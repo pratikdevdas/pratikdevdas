@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I like developing mostly.
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiit fest website]([http://www.pratikdevdas.com/blog/how-i-built-my-website](https://pratikdevdas.hashnode.dev/the-journey-to-conquer-a-big-island-within-a-week))
+- [Kiit fest website]([http://www.pratikdevdas.com/blog/how-i-built-my-website](https://pratikdevdas.hashnode.dev/the-journey-to-conquer-a-big-island-within-a-week])
 
 <!-- BLOG-POST-LIST:END -->
 

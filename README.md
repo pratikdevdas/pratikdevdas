@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I like developing mostly.
 
 
 ## 📊 Wakatime Stats
-![Pratik's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=52d1c647-d52a-4125-88c1-403caaa2c2e8)
+[![wakatime](https://wakatime.com/badge/user/52d1c647-d52a-4125-88c1-403caaa2c2e8.svg)](https://wakatime.com/@52d1c647-d52a-4125-88c1-403caaa2c2e8)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I like developing mostly.
 
 ## 📫 Contact Me
 - Website: [pratikdevdas.com](http://www.pratikdevdas.com)
-- Email: [pratik@pratikdevdas.com](mailto:dasdev.pratik@gmail.com)
+- Email: [dasdev.pratik@gmail.com](mailto:dasdev.pratik@gmail.com)
 - LinkedIn: [linkedin.com/in/pratikdevdas](https://www.linkedin.com/in/pratikdevdas/)
 
 Feel free to reach out if you have any questions or want to collaborate on a project!

@@ -18,12 +18,6 @@ Welcome to my GitHub profile! I like developing mostly.
 ## 📊 Wakatime Stats
 [![wakatime](https://wakatime.com/badge/user/52d1c647-d52a-4125-88c1-403caaa2c2e8.svg)](https://wakatime.com/@52d1c647-d52a-4125-88c1-403caaa2c2e8)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Kiit fest website]([http://www.pratikdevdas.com/blog/how-i-built-my-website](https://pratikdevdas.hashnode.dev/the-journey-to-conquer-a-big-island-within-a-week])
-
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Contact Me
 - Website: [pratikdevdas.com](http://www.pratikdevdas.com)
 - Email: [dasdev.pratik@gmail.com](mailto:dasdev.pratik@gmail.com)

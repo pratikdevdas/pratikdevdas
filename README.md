@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pratikdevdas/)
 [![Website Badge](https://img.shields.io/badge/Website-Visit-blue)](http://www.pratikdevdas.com)
 
-Welcome to my GitHub profile! I like developing mostly.
+Welcome to my GitHub profile! I like developing Saas.
 
 ## 🚀 Languages and Tools:
 
